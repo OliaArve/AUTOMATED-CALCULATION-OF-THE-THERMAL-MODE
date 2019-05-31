@@ -1,0 +1,84 @@
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\bin\Debug\K-project.exe.config
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\bin\Debug\K-project.exe
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\bin\Debug\K-project.pdb
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K-project.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K-project_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K-project_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K-project.g.resources
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K_project.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K-project.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K-project.exe
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\K-project.pdb
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\chertej.g.cs
+c:\users\user\documents\visual studio 2015\Projects\K-project\K-project\obj\Debug\chertej.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\K-project\K-project\obj\Debug\teplorej.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\K-project\K-project\obj\Debug\teplorej.baml
+F:\K-project\K-project\bin\Debug\K-project.exe.config
+F:\K-project\K-project\obj\Debug\K-project.exe
+F:\K-project\K-project\obj\Debug\K-project.pdb
+F:\K-project\K-project\obj\Debug\K-project.csprojResolveAssemblyReference.cache
+F:\K-project\K-project\obj\Debug\chertej.g.cs
+F:\K-project\K-project\obj\Debug\MainWindow.g.cs
+F:\K-project\K-project\obj\Debug\teplorej.g.cs
+F:\K-project\K-project\obj\Debug\App.g.cs
+F:\K-project\K-project\obj\Debug\K-project_MarkupCompile.cache
+F:\K-project\K-project\obj\Debug\K-project_MarkupCompile.lref
+F:\K-project\K-project\bin\Debug\K-project.exe
+F:\K-project\K-project\bin\Debug\K-project.pdb
+F:\K-project\K-project\obj\Debug\chertej.baml
+F:\K-project\K-project\obj\Debug\MainWindow.baml
+F:\K-project\K-project\obj\Debug\teplorej.baml
+F:\K-project\K-project\obj\Debug\K-project.g.resources
+F:\K-project\K-project\obj\Debug\K_project.Properties.Resources.resources
+F:\K-project\K-project\obj\Debug\K-project.csproj.GenerateResource.Cache
+M:\K-project\K-project\bin\Debug\K-project.exe.config
+M:\K-project\K-project\obj\Debug\K-project.exe
+M:\K-project\K-project\obj\Debug\K-project.pdb
+M:\K-project\K-project\obj\Debug\K-project.csprojResolveAssemblyReference.cache
+M:\K-project\K-project\obj\Debug\chertej.g.cs
+M:\K-project\K-project\obj\Debug\MainWindow.g.cs
+M:\K-project\K-project\obj\Debug\teplorej.g.cs
+M:\K-project\K-project\obj\Debug\App.g.cs
+M:\K-project\K-project\obj\Debug\K-project_MarkupCompile.cache
+M:\K-project\K-project\obj\Debug\K-project_MarkupCompile.lref
+M:\K-project\K-project\bin\Debug\K-project.exe
+M:\K-project\K-project\bin\Debug\K-project.pdb
+M:\K-project\K-project\obj\Debug\chertej.baml
+M:\K-project\K-project\obj\Debug\MainWindow.baml
+M:\K-project\K-project\obj\Debug\teplorej.baml
+M:\K-project\K-project\obj\Debug\K-project.g.resources
+M:\K-project\K-project\obj\Debug\K_project.Properties.Resources.resources
+M:\K-project\K-project\obj\Debug\K-project.csproj.GenerateResource.Cache
+F:\K-project\K-project\obj\Debug\Hello.g.cs
+F:\K-project\K-project\obj\Debug\Hello0.g.cs
+F:\K-project\K-project\obj\Debug\Hello.baml
+F:\K-project\K-project\obj\Debug\Hello0.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\K-project\K-project\obj\Debug\Hello.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\K-project\K-project\obj\Debug\Hello0.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\K-project\K-project\obj\Debug\Hello.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\K-project\K-project\obj\Debug\Hello0.baml
+F:\Olia\univer\my programs\K-project\K-project\bin\Debug\K-project.exe.config
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K-project.exe
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K-project.pdb
+F:\Olia\univer\my programs\K-project\K-project\bin\Debug\K-project.exe
+F:\Olia\univer\my programs\K-project\K-project\bin\Debug\K-project.pdb
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K-project.csprojResolveAssemblyReference.cache
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\chertej.g.cs
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\Hello.g.cs
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\Hello0.g.cs
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\MainWindow.g.cs
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\teplorej.g.cs
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\App.g.cs
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K-project_MarkupCompile.cache
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K-project_MarkupCompile.lref
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\chertej.baml
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\Hello.baml
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\Hello0.baml
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\MainWindow.baml
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\teplorej.baml
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K-project.g.resources
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K_project.Properties.Resources.resources
+F:\Olia\univer\my programs\K-project\K-project\obj\Debug\K-project.csproj.GenerateResource.Cache

@@ -1,0 +1,21 @@
+﻿<Window x:Class="K_project.Hello"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:K_project"
+        mc:Ignorable="d"
+        Title="Hello" Height="262.607" Width="300" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button1" Content="Имеется электрическая&#xD;&#xA;принципиальная схема &#xD;&#xA;конкретного прибора" Height="58" Margin="53,87,50,0" VerticalAlignment="Top" Click="button_Click"/>
+        <Button x:Name="button2" Content="ცნობილია სამონტაჟო&#xD;&#xA;ფირფიტის გაბარიტული&#xD;&#xA;ზომები" Height="62" Margin="53,153,50,0" VerticalAlignment="Top" Click="button2_Click"/>
+        <Label x:Name="label" Content="პროგრამა გამიზნულია თბური რეჟიმის &#xD;&#xA;ანგარიშისათვის. გამოთვლა შესაძლებელია&#xD;&#xA;      განხორციელდეს ორ შემთხვევაში" Height="86" Margin="8,13,12,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="1." HorizontalAlignment="Left" Height="51" Margin="8,94,0,0" VerticalAlignment="Top" Width="45" FontSize="36" FontWeight="Bold"/>
+        <Label x:Name="label1_Copy" Content="2." HorizontalAlignment="Left" Height="51" Margin="8,161,0,0" VerticalAlignment="Top" Width="45" FontSize="36" FontWeight="Bold"/>
+        <Label x:Name="label1_Copy1" Content=":" HorizontalAlignment="Left" Height="51" Margin="239,38,0,0" VerticalAlignment="Top" Width="45" FontSize="22" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
